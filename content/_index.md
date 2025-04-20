@@ -5,8 +5,11 @@ weight: 1
 
 # Adage
 
-Infrastructure as consequence.  
+## A Configuration-Driven AWS Deployment Framework  
+
 A modular deployment framework for building systems that evolve from config — not code.
+
+![Adage: Infrastructure as Consequence](/img/adage-system-diagram.png)
 
 ---
 

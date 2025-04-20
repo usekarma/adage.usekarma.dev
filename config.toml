@@ -13,6 +13,9 @@ enableRobotsTXT = true
   BookToC = true
   BookSection = "*"
   BookPostScript = "docs/inject-footer.html"
+  BookPaletteLight = "adage-light"
+  BookPaletteDark = "adage-dark"
+  customCSS = ["assets/css/adage-light.css", "assets/css/adage-dark.css"]
 
 [markup]
   [markup.goldmark.renderer]

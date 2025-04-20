@@ -1,0 +1,10 @@
+
+[data-theme='light'] {
+  --color-primary: #2C3E50;
+  --color-primary-contrast: #ffffff;
+  --color-secondary: #95A5A6;
+  --color-link: #1B4F72;
+  --color-link-hover: #154360;
+  --color-text: #2C3E50;
+  --color-background: #FDFEFE;
+}
